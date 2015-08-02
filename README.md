@@ -6,7 +6,7 @@ Python script for collecting names from caller ID app [CIA](http://cia-app.com/)
 * requests module ([Download](http://docs.python-requests.org/en/latest/user/install/))
 
 ##Usage:
-Use the script by giving 2 turkish mobile numbers(without 0) as arguments, and numbers registered to cia-app between these two arguments will be shown on the screen. First mobile number must be bigger than the second number.
+Script takes 2 turkish mobile numbers(without 0) as arguments. As a result, numbers that are registered to cia-app between these two arguments will be shown on the screen. First mobile number must be bigger than the second number.
 
 ./cia-app.py 5XXXXXXXXX 5YYYYYYYYY
 
