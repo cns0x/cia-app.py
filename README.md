@@ -11,3 +11,5 @@ Use the script by giving 2 turkish mobile numbers(without 0) as arguments, and n
 ./cia-app.py 5XXXXXXXXX 5YYYYYYYYY
 
 To delete your number from cia-app database, visit [this](http://cia-app.com/self-service/delist-number/) site
+
+![](http://cdn.meme.am/instances2/500x/1139657.jpg)
