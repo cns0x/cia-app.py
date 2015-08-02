@@ -1,5 +1,5 @@
 # cia-app.py
-Request names from cia-app
+Python script for gathering names from caller ID app CIA
 ##Requirements:
 * Python3
 * requests module ([Download](http://docs.python-requests.org/en/latest/user/install/))
